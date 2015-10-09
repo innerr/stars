@@ -6,7 +6,7 @@ import daemon
 class Daemons:
     def __init__(self):
         self._tasks = {}
- 
+
     def __del__(self):
         self.terminate(0)
 

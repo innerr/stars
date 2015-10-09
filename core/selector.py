@@ -1,5 +1,5 @@
 #coding:utf-8
-    
+
 import threading
 import synchro
 import spystat

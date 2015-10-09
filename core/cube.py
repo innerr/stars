@@ -17,7 +17,7 @@ class ApiCube:
         self._cube = {}
         self._public = {}
         self._module = []
-        #TODO 需要解除这个固定core路径耦合
+        # TODO corePath
         if isinstance(path, list):
             for it in path:
                 self._loadPath(it, filterPaths, corePath)

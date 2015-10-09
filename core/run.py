@@ -18,7 +18,7 @@ import config
 import daemons
 import logger
 
-# 'xtornado' 是经过改造的wsgi协议下的tornado，使wsg支持chunked传输
+# 'xtornado' is a modified version of tornado，for chunked transfer supported.
 _ASYNC_HTTP_SUPPORT_SERVER = 'xtornado'
 
 def run(*args):

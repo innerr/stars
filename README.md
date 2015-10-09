@@ -1,2 +1,6 @@
-# Stars
-Web service framework for python
+Stars - A simple and powerful web service framework for python
+===
+
+
+
+

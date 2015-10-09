@@ -1,8 +1,5 @@
 #coding:utf-8
 # huangchuantong@kingsoft.com
-'''
-xtornado的实现代码
-'''
 
 import logging
 import sys
